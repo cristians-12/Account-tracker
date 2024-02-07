@@ -21,8 +21,8 @@ body {
 }
 
 .container {
-  margin: 30px auto;
-  width: 400px;
+  margin: auto auto;
+  width: 90%;
 }
 
 h1 {
@@ -110,7 +110,7 @@ input[type='number'] {
   list-style-type: none;
   padding: 0;
   margin-bottom: 40px;
-  width:90%;
+  width:100%;
 }
 
 .list li {
