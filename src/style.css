@@ -22,7 +22,7 @@ body {
 
 .container {
   margin: 30px auto;
-  width: 85%;
+  width: 400px;
 }
 
 h1 {
@@ -110,6 +110,7 @@ input[type='number'] {
   list-style-type: none;
   padding: 0;
   margin-bottom: 40px;
+  width:90%;
 }
 
 .list li {
